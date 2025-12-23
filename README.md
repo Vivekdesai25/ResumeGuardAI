@@ -64,14 +64,7 @@ Modern recruitment processes rely heavily on automated screening tools. As a res
 ---
 ## Project Structure
 
-ResumeGuardAI/
-    │
-    ├── models/ # Machine learning and NLP models
-    ├── dataset/ # Training and testing datasets
-    ├── scripts/ # Resume analysis and processing scripts
-    ├── app.py # Main application file
-    ├── requirements.txt # Project dependencies
-    └── README.md # Project documentation
+<img src="./Assets/project-structure.png" alt="Project Structure" width="600" />
 
 ---
 ### Installation and Execution 
