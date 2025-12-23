@@ -62,36 +62,33 @@ Modern recruitment processes rely heavily on automated screening tools. As a res
 - Academic mini-project and learning demonstration
 
 ---
-
-## Project Structure
-
-
-
 ResumeGuardAI/
 │
-├── models/ # Machine learning and NLP models
-├── dataset/ # Training and testing datasets
-├── scripts/ # Resume analysis and processing scripts
-├── app.py # Main application file
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── models/            # Machine learning and NLP models
+├── dataset/           # Training and testing datasets
+├── scripts/           # Resume analysis and processing scripts
+├── app.py             # Main application file
+├── requirements.txt  # Project dependencies
+└── README.md          # Project documentation
 
 
 
 ### Installation and Execution 
 
 1. Clone the repository:
-git clone https://github.com/vivekdesai25/ResumeGuardAI.git
+   git clone https://github.com/vivekdesai25/ResumeGuardAI.git
 
-2. Install dependencies:
-pip install -r requirements.txt
+2. Install Python dependencies:
+   pip install -r requirements.txt
 
-npm install
+3. Install Node.js dependencies:
+   npm install
 
 4. Run the application:
-   `npm run dev`
+   npm run dev
 
 5. Provide resume text for analysis.
+
 
 ## Future Enhancements
 - Support for PDF and DOCX resume parsing
