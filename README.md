@@ -64,6 +64,7 @@ Modern recruitment processes rely heavily on automated screening tools. As a res
 ---
 
 ## Project Structure
+
 ResumeGuardAI/
 │
 ├── models/ # Machine learning and NLP models
@@ -80,12 +81,13 @@ git clone https://github.com/vivekdesai25/ResumeGuardAI.git
 
 2. Install dependencies:
 pip install -r requirements.txt
+
 npm install
 
-3. Run the application:
+4. Run the application:
    `npm run dev`
 
-4. Provide resume text for analysis.
+5. Provide resume text for analysis.
 
 ## Future Enhancements
 - Support for PDF and DOCX resume parsing
