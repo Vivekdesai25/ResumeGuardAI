@@ -1,5 +1,6 @@
 # ResumeGuardAI – AI Resume Screening Assistant
 
+
 ## Overview
 ResumeGuardAI is an AI-based resume screening assistant developed to help job seekers improve resume quality and Applicant Tracking System (ATS) compatibility. The system analyzes resumes to detect common ATS issues, identify AI-generated content, and provide structured suggestions for improvement.
 
